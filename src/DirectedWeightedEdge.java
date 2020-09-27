@@ -1,13 +1,3 @@
-/*Student Information
- *-------------------
- *Student Name: Srebrnjak, Justina
- *Student Number: 400189506
- *Course Code: SE 2XB3
- *Lab Section: 03
- *I attest that the following code being submitted is my own individual work.
- */
-package cas.A2.wt;
-
 //This implementation of a directed and weighted edge is similar to that found in Robert Sedgewick and Kevin Wayne's "Algorithm's Fourth Edition"
 public class DirectedWeightedEdge {
 	
